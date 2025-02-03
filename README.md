@@ -1,4 +1,4 @@
-## 🚀 Hi, I'm Rohit Malviya! 👋
+## 🚀 Hi, I'm Divyanshu Jaiswal! 👋
 
 <div style="background-color:gray"  align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
