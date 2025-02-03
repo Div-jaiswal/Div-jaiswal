@@ -1,7 +1,7 @@
 ## 🚀 Hi, I'm Divyanshu Jaiswal! 👋
 
 <div style="background-color:gray"  align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
+  <img src="https://imgs.search.brave.com/ELb1hui2UTJy8tVuFJf_bZg0RFo_fp8YOX9MMhPJiI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctY29kaW5n/LWRpZ2l0YWwtbWFy/a2V0aW5nLWI2M3pj/Y3gwNGk0bHVoaDku/Z2lm.gif" width="400" alt="Coding">
 </div>
 
 ### 💻 Passionate Full Stack Developer
